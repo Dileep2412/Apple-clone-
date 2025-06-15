@@ -9,15 +9,13 @@
     display: flex;
     justify-content:center;
     align-items: center;
-    gap: 42px;
-   
+    gap: 42px; 
 }
 .navbar a{
     font-size: 0.80rem;
     font-weight:0;
     font-family: helvetica;
-    margin: 2px;
-    
+    margin: 2px;    
 }
 .navbar i{
     font-size: 1.2rem;
